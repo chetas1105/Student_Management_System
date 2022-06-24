@@ -1,0 +1,84 @@
+Welcome to Student mangment System
+::Menu::
+1. Add Student
+2. Update Student Data
+3. Search Student
+4. Delete
+5. Exit
+choice : 1
+
+Enter number of Student : 3
+ok..
+Enter Student 1 Data
+Roll :101
+Name :
+Paper 1 :
+Paper 2 :
+Paper 3 :
+
+Enter Student 1 Data
+Roll :102
+Name :
+Paper 1 :
+Paper 2 :
+Paper 3 :
+
+
+Enter Student 1 Data
+Roll :
+Name :
+Paper 1 :
+Paper 2 :
+Paper 3 :
+
+Ok Grate All Data Saved..
+
+::Menu::
+1. Add Student
+2. Update Student Data
+3. Search Student
+4. Delete
+5. Exit
+choice : 2
+ok
+Enter your Roll number: 101
+
+SubMenu
+1. Change Name
+2. Change Paper1 Marks
+3. Change Paper2 Marks
+4. Change Paper3 Marks
+choice : 1
+ok your OLD Name is Ram
+do you really want to Change?
+    1.Yes
+    2.No
+ choice : 1
+ ok Enter your Correct Name
+ Ram Sharma
+ ok
+ your name name is  Ram Sharma and old is Ram
+do you really want to Change?
+    1.Yes
+    2.No
+choice : 1
+Data Updated Succesfully...
+::Menu::
+1. Add Student
+2. Update Student Data
+3. Search Student
+4. Delete
+5. Exit
+choice : 3
+Ok Enter your Roll 101
+
+Print all Data of Given Roll number
+::Menu::
+1. Add Student
+2. Update Student Data
+3. Search Student
+4. Delete
+5. Exit
+choice : 4
+Ok Enter your Roll 101
+Data Deleted
